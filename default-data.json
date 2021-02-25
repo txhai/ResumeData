@@ -8,7 +8,7 @@
       "name": "Hai Tran",
       "title": "Indie Developer"
     },
-    "pdfUrl": "https://drive.google.com/file/d/1mMVc6Vc6u7b7YqqC-Pep2pRt9JqU90Os/view?usp=sharing",
+    "pdfUrl": "https://drive.google.com/file/d/1iHxo3NcKFvvjDxoPs7_hxsl_VDvbomeu/view?usp=sharing",
     "avatar": "/images/avatar.jpg",
     "contact": [
       {
@@ -124,7 +124,7 @@
       },
       {
         "icon": "fas fa-download",
-        "url": "https://drive.google.com/file/d/1mMVc6Vc6u7b7YqqC-Pep2pRt9JqU90Os/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1iHxo3NcKFvvjDxoPs7_hxsl_VDvbomeu/view?usp=sharing",
         "tooltip": "Download CV"
       }
     ]
@@ -443,11 +443,11 @@
     },
     {
       "name": "C#",
-      "content": "C# was my major programming language til I met Python"
+      "content": "C# was my major programming language until I met Python"
     },
     {
       "name": "Adoble Illutrator, Photoshop",
-      "content": "I love draw things too<br />You make apps, you need to know the design."
+      "content": "I love design things too<br />You make apps, you need to know the design."
     }
   ]
 }
