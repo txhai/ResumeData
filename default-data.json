@@ -1,0 +1,453 @@
+{
+  "home": {
+    "major": "Hi There, I Am Hai Tran",
+    "minor": "I develop software & website"
+  },
+  "basic": {
+    "identity": {
+      "name": "Hai Tran",
+      "title": "Indie Developer"
+    },
+    "pdfUrl": "https://drive.google.com/file/d/1mMVc6Vc6u7b7YqqC-Pep2pRt9JqU90Os/view?usp=sharing",
+    "avatar": "/images/avatar.jpg",
+    "contact": [
+      {
+        "key": "Residence",
+        "value": "Vietnam"
+      },
+      {
+        "key": "Location",
+        "value": "Ho Chi Minh City"
+      },
+      {
+        "key": "Email",
+        "value": "haitrandocs@gmail.com"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Vietnamese",
+        "level": 100
+      },
+      {
+        "name": "English",
+        "level": 85
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": 90,
+        "abilities": [
+          [
+            "Django",
+            "Flask",
+            "Wordpress"
+          ],
+          [
+            "SQL",
+            "MongoDB",
+            "Cloud Firestore"
+          ],
+          [
+            "Linux",
+            "Docker"
+          ],
+          [
+            "VueJS",
+            "GraphQL",
+            "Bootstrap"
+          ],
+          [
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "JS"
+          ],
+          [
+            "GCP",
+            "AWS",
+            "Azure",
+            "Digital Ocean"
+          ]
+        ]
+      },
+      {
+        "name": "App Development",
+        "level": 85,
+        "abilities": [
+          [
+            "Android (Java)"
+          ],
+          [
+            "Firebase"
+          ],
+          [
+            "Flutter (Dart)"
+          ],
+          [
+            "iOS (Swift, Objective-C)"
+          ]
+        ]
+      },
+      {
+        "name": "Machine Learning<br/>& Data Analysis",
+        "level": 70,
+        "abilities": [
+          [
+            "PyTorch",
+            "LightGBM"
+          ],
+          [
+            "Pandas",
+            "PowerBI",
+            "Grafana"
+          ]
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "https://linked.in/txhai",
+        "tooltip": "linked.in/txhai"
+      },
+      {
+        "icon": "fab fa-github",
+        "url": "https://github.com/txhai",
+        "tooltip": "github.com/txhai"
+      },
+      {
+        "icon": "fas fa-envelope",
+        "url": "mailto:haitrandocs@gmail.com",
+        "tooltip": "Email"
+      },
+      {
+        "icon": "fas fa-download",
+        "url": "https://drive.google.com/file/d/1mMVc6Vc6u7b7YqqC-Pep2pRt9JqU90Os/view?usp=sharing",
+        "tooltip": "Download CV"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Falcon platform",
+      "short": "A lightweight & high performance e-commercial platform.",
+      "description": [
+        "Full-stack, freelance contract",
+        "Techs used: Django, GraphQL, VueJS, Docker",
+        "I created fast & reliable front-end with VueJS, and strong back-end based on Saleor",
+        "Using GraphQL middleware instead of RESTful API"],
+      "article": null,
+      "year": "2020",
+      "order": 0,
+      "techs": [
+        "django",
+        "vuejs"
+      ]
+    },
+    {
+      "title": "Gaming VPN App",
+      "short": "A VPN app for mobile gaming. Providing faster connection and reducing ping.",
+      "description": [
+        "Indie project",
+        "Techs used: Java (Android), C/C++, Python (Flask, Django), OpenVPN, Docker, Firebase",
+        "Set up multiple VPN servers and developed a client app",
+        "Reached 15,000+ downloads recently"
+      ],
+      "article": null,
+      "year": "2020",
+      "order": 1,
+      "techs": [
+        "android",
+        "python",
+        "java"
+      ]
+    },
+    {
+      "title": "Vietnamese Text Detection and Recognition",
+      "short": "Detect & recognize Vietnamese scene text",
+      "description": [
+        "Solo project, graduation thesis",
+        "Techs used: R-CNN, Bi-LSTM",
+        "Achieved a state-of-the-art result in detecting and recognizing Vietnamese text in natural environment."
+      ],
+      "article": null,
+      "year": "2018",
+      "order": 3,
+      "techs": [
+        "deep-learning",
+        "python"
+      ]
+    },
+    {
+      "title": "Factory automation software",
+      "short": "Monitoring and control manually or automatically factory's devices.",
+      "description": [
+        "Full-stack responsible for this project at Koidra AI",
+        "Developed a monitor and alert system",
+        "Developed control dashboard as a website"
+      ],
+      "article": null,
+      "year": "2018 - 2019",
+      "order": 2,
+      "techs": []
+    }
+  ],
+  "articles": [
+  ],
+  "careers": [
+    {
+      "idx": 0,
+      "org": "VLab",
+      "company": true,
+      "title": "Data Analyst Internship",
+      "position": "Internship",
+      "duration": [
+        "Apr 2018",
+        "Aug 2018"
+      ],
+      "blocks": [
+        "Developed algorithms to find feature important & user interests in the real estate domain",
+        "Developed end-to-end system that automatically pulls data from Google Analytics, analyses & reports continuously"
+      ]
+    },
+    {
+      "idx": 1,
+      "org": "Koidra AI",
+      "company": true,
+      "title": "Machine Learning Engineer",
+      "position": "Full-time",
+      "duration": [
+        "Sep 2018",
+        "Oct 2019"
+      ],
+      "blocks": [
+        "Started working at Koidra right after I graduated",
+        "Developed the end-to-end prediction systems for finance problems such as <i>customer churn prediction</i>, <i>house-rent price prediction</i>",
+        "Developed the automation system & dashboard for greenhouse & factory control",
+        "Participated DL paper research",
+        "Key achievement: We took 3rd place at Autonomous Greenhouses International Challenge 2019 over 21 international teams"
+      ]
+    },
+    {
+      "idx": 2,
+      "org": "Self-employed",
+      "company": false,
+      "title": "Indie developer, freelancer",
+      "position": "Full-time, work from Home",
+      "duration": [
+        "Dec 2019",
+        "Present"
+      ],
+      "blocks": [
+        "Due to the Coronavirus pandemic, I've decided to work at home to protect myself and took a rest. Focus on my self-project research.",
+        "I am also available for Freelance jobs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "major": "University of Information Technology, VNU HCMC",
+      "minor": "2014 — 2018",
+      "blocks": [
+        "Qualified in & joined Honors Program in Computer Science",
+        "Learnt data structures, algorithms, optimization, OOP, etc",
+        "Specialized in Computer Vision, learnt Machine learning & Deep learning techniques",
+        "Graduation thesis is a research to detect and recognize Vietnamese scene text using Deep learning techniques",
+        "Data analysis, and software development are also my hobbies"
+      ],
+      "badge": "<strong>Distinction grade</strong> &mdash; Overall GPA 8.4/10"
+    }
+  ],
+  "abilities": [
+    {
+      "icon": "fas fa-robot",
+      "ability": "A.I.",
+      "content": [
+        "Understanding of design, training, testing, and validating model",
+        "Able to work with PyTorch, Tensorflow, Light-GBM"
+      ],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "ability": "Data Analysis",
+      "content": [
+        "Able to analyse structure or non-structure data to find importance and user's interests",
+        "Familiar with Pandas, Numpy, PowerBI, Grafana, etc"
+      ],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-database",
+      "ability": "Database",
+      "content": ["Able to design database and table relationship", "Familiar with MySQL, MSSQL, MongoDB"],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-tachometer-alt",
+      "ability": "Optimization",
+      "content": [
+        "My favorite task, optimizing the code for running faster with smaller resource",
+        "Able to reimplement program in C/C++ for higher performance in some situation, such as writing Python modules in Python Boost or Cython"],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-server",
+      "ability": "Back-end",
+      "content": [
+        "Familiar with Django, Flask, Wordpress, Docker",
+        "Experienced in Linux, Nginx, Docker, and Rabbit-MQ.",
+        "Able to deploy onto Google Cloud, AWS, and Azure."],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-image",
+      "ability": "Front-end",
+      "content": [
+        "Familiar with Nuxt, VueJS",
+        "Able to work with Bootstrap, Node & Webpack",
+        "Good at HTML, CSS, and Javascript skill"],
+      "tax": true
+    },
+    {
+      "icon": "fab fa-app-store",
+      "ability": "Mobile app development",
+      "content": [
+        "Most experience is in Android app development",
+        "Able to work with Flutter (Dart), Objective-C, and Swift too"
+      ],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-drafting-compass",
+      "ability": "UI/UX",
+      "content": [
+        "By observing the evolution of UI/UX since I was a kid, I am able to design the smart & high standards UI/UX"
+      ],
+      "tax": true
+    },
+    {
+      "icon": "fab fa-windows",
+      "ability": ".NET",
+      "content": [
+        "Able to develop .NET application especially Windows application",
+        "Most of my projects in college are written in C#"
+      ],
+      "tax": true
+    },
+    {
+      "icon": "fas fa-code",
+      "ability": "Programming languages",
+      "content": ["Able to learn new programming languages quickly as long as it is necessary for my projects",
+        "Comfortable with: Python, C#, C/C++, Javascript, PHP, SQL, HTML, CSS, Java, Objective-C"],
+      "tax": false
+    },
+    {
+      "icon": "fas fa-tools",
+      "ability": "Tools and IDEs",
+      "content": ["<b>OS</b>: Windows, Linux, and MacOS<br /><b>IDEs</b>: Pycharm, Visual Studio, PhpStorm, XCode, Android Studio<br /><b>Design tools</b>: Adoble Illutrator, Photoshop <br /> <b>Secondary editors</b>: VIM, VSCode, Sublime,..."],
+      "tax": true
+    }
+  ],
+  "skillHints": [
+    {
+      "name": "Pandas",
+      "content": "My favorite tool when analyzing data"
+    },
+    {
+      "name": "NumPy",
+      "content": "NumPy is inevitable"
+    },
+    {
+      "name": [
+        "Objective-C",
+        "Swift"
+      ],
+      "content": "I've written a video editor app with Objective-C and Swift.<br />The app uses Machine learning model which is deployed via CoreML"
+    },
+    {
+      "name": "Java",
+      "content": "I've written a VPN app in Java for Android.<br />It's called Netgood, and you can read more detail in the <b>Recent Projects</b> section."
+    },
+    {
+      "name": "Flutter",
+      "content": "I learnt Flutter in a week, and feel more and more fluent. I also have built a Navigation app based on GPS data"
+    },
+    {
+      "name": "UI/UX",
+      "content": "I've learnt and followed the evolution of Windows UI, then website front-end, and mobile app."
+    },
+    {
+      "name": "Javascript",
+      "content": "If HTML/CSS is the skin, JS is the bone. I can work with Javascript, DOM and JQuery creatively to make reliable front-end."
+    },
+    {
+      "name": [
+        "HTML",
+        "CSS"
+      ],
+      "content": "I can use HTML, CSS creatively to make a professional website from scratch. For saving time I use Bootstrap."
+    },
+    {
+      "name": "VueJS",
+      "content": "I've built some websites with VueJS and I like it. Just simple, lightweight and fast."
+    },
+    {
+      "name": "AngularJS",
+      "content": "I've built a table booking website with AngularJS when I was in the college."
+    },
+    {
+      "name": "Django",
+      "content": "I've involved in several big projects with Django in Data analysis, Greenhouse and Factory control.<br />Those projects need the high customization to meet security, real-time, and performance requirements."
+    },
+    {
+      "name": "CodeIgniter",
+      "content": "CodeIgniter was a favorite framework of mine. I used it when I was in high school for developing some my ideas."
+    },
+    {
+      "name": "Flask",
+      "content": "If the app is simple and only need API, I would choose Flask for faster API development.<br />I've used Flask as a back-end of a website for demonstrating the forest distribution."
+    },
+    {
+      "name": "WordPress",
+      "content": "I am familiar with PHP so customizing Wordpress seems easy a little bit. This website is customized from WordPress."
+    },
+    {
+      "name": "Nginx",
+      "content": "Most of my previous apps was routed with NGINX"
+    },
+    {
+      "name": "Docker",
+      "content": "I usually deploy the Machine Learning apps to Docker. It guarantees the development & production environment is the same & stable."
+    },
+    {
+      "name": "C/C++",
+      "content": "I am able to work with C, C++, Objective-C, and C++/CLI. I am experienced in working with C/C++ projects for embedded devices."
+    },
+    {
+      "name": [
+        "Boost",
+        "Cython"
+      ],
+      "content": "Not only for better performance, there are some module is just in C/C++, so I make a wrapper for them using Boost or Cython. Finally I can import those modules into my Python projects."
+    },
+    {
+      "name": "database",
+      "content": "I can write both ORM and non-ORM query"
+    },
+    {
+      "name": "Windows application",
+      "content": "I've built many Windows applications, such as Anti-virus, Dictionary, or IOT controller"
+    },
+    {
+      "name": "C#",
+      "content": "C# was my major programming language til I met Python"
+    },
+    {
+      "name": "Adoble Illutrator, Photoshop",
+      "content": "I love draw things too<br />You make apps, you need to know the design."
+    }
+  ]
+}
