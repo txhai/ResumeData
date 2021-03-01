@@ -6,9 +6,9 @@
   "basic": {
     "identity": {
       "name": "Hai Tran",
-      "title": "Indie Developer"
+      "title": "Full-stack Developer"
     },
-    "pdfUrl": "https://drive.google.com/file/d/1iHxo3NcKFvvjDxoPs7_hxsl_VDvbomeu/view?usp=sharing",
+    "pdfUrl": "https://drive.google.com/file/d/1AhVP5KhUjL09Fe2D89obgbL9ARRxs4Tl/view?usp=sharing",
     "avatar": "/images/avatar.jpg",
     "contact": [
       {
@@ -124,7 +124,7 @@
       },
       {
         "icon": "fas fa-download",
-        "url": "https://drive.google.com/file/d/1iHxo3NcKFvvjDxoPs7_hxsl_VDvbomeu/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1AhVP5KhUjL09Fe2D89obgbL9ARRxs4Tl/view?usp=sharing",
         "tooltip": "Download CV"
       }
     ]
